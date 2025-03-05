@@ -4,6 +4,6 @@ It requires the CustomTkinter package (https://github.com/tomschimansky/customtk
 
 Data files should be stored in .h5 or .pickle format including metadata.
 
-Data can be fitted with Gaussian or Lorentizian peak, or Fano dip.
+Data can be fitted with Gaussian, Lorentizian or Fano curves.
 
 Using those fitted curves, it can compute the vacuum optomechanical coupling rate g0/2pi.
